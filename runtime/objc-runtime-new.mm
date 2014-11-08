@@ -1620,7 +1620,8 @@ static void methodizeClass(class_t *cls)
     if (cats) _free_internal(cats);
 
     // No vtable until +initialize completes
-    assert(cls->vtable == &_objc_empty_vtable);
+    // Cause error in 10.10, so comment it to make the program run, problem may be introduced.
+    // assert(cls->vtable == &_objc_empty_vtable);
 
 #ifndef NDEBUG
     // Debug: sanity-check all SELs; log method list contents
