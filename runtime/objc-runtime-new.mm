@@ -1623,6 +1623,7 @@ static void methodizeClass(class_t *cls)
     // Cause error in 10.10, so comment it to make the program run, problem may be introduced.
     // assert(cls->vtable == &_objc_empty_vtable);
 
+
 #ifndef NDEBUG
     // Debug: sanity-check all SELs; log method list contents
     FOREACH_METHOD_LIST(mlist, cls, {

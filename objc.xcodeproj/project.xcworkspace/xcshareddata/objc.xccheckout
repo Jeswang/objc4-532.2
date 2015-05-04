@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3665519D-AFDF-412C-98F5-0A103B1F9B46</string>
+	<key>IDESourceControlProjectName</key>
+	<string>objc</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>3F0B5AF7E658B57EDE8BB714153831803DD6994A</key>
+		<string>https://github.com/Jeswang/objc4-532.2.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>objc.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>3F0B5AF7E658B57EDE8BB714153831803DD6994A</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Jeswang/objc4-532.2.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>3F0B5AF7E658B57EDE8BB714153831803DD6994A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>3F0B5AF7E658B57EDE8BB714153831803DD6994A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>objc4-532.2</string>
+		</dict>
+	</array>
+</dict>
+</plist>
